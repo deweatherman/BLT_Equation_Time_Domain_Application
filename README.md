@@ -4,7 +4,7 @@
 It is a personal repo containing a Python based implementation of the Baum-Liu-Tesche (BLT) equation.
 
 It contains:
-- Basic Tesche implementation for time-domain calculation of the current induced on a transmission line (Tl) by a plane wave.
+- Basic Tesche implementation for time-domain calculation of the current induced on a transmission line (Tl) by a plane wave: [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/deweatherman/BLT_Equation_Time_Domain_Application/refs/heads/main/basicTestsTesche.html?token=GHSAT0AAAAAADKHQVZXHFYSZVRZQ63LYJWA2FUHSHA)
 - More tests/validations/etc. to be added
 
 ## Purpose of this repo
